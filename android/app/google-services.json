@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "539365959640",
+    "project_id": "agrismart1328",
+    "storage_bucket": "agrismart1328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539365959640:android:aeb14165a8e42c5cd934ad",
+        "android_client_info": {
+          "package_name": "com.example.agrismart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdd4rLu_IsUOTdA2wUS9LeBs1cYcYMUVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
